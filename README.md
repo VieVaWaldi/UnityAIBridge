@@ -10,4 +10,10 @@ A custom RL pipeline for Unity MLAgents.
 
 ## Installation
 
-...
+I am using python 3.10.12, which is necessary for mlagent_envs.
+
+> python3.10 -m venv venv
+
+> source venv/bin/activate
+
+> pip install -r requirements.txt

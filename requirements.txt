@@ -1,0 +1,12 @@
+cloudpickle==3.0.0
+filelock==3.15.4
+grpcio==1.48.2
+gym==0.26.2
+gym-notices==0.0.8
+mlagents-envs==1.0.0
+numpy==1.21.2
+PettingZoo==1.15.0
+pillow==10.4.0
+protobuf==3.19.6
+PyYAML==6.0.1
+six==1.16.0
